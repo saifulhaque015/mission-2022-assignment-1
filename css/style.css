@@ -4,6 +4,9 @@ body{
 h1{
     font-family: 'Yeseva One', cursive;
 }
+h2{
+    font-family: 'Lobster', cursive;
+}
 a{
     text-decoration: none;
     color: black;
@@ -68,4 +71,15 @@ a{
 }
 .color{
     background-color: rgba(255, 99, 71, 0.144);
+}
+.footer{
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.footer h2{
+    color: white;
+}
+.footer p{
+    color: #D9DBE1;
 }
