@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Yeseva One', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.top-banner{
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ambition{
+    color: #FFAD5A;
+}
+.top-header{
+    width: 50%;
+    margin-left: 30px;
+}
+.top-header ul li{
+    list-style: none;
+}
+.top-header img{
+    width: 70%;
+    height: 250px;
+}
+.top-border{
+    border-left: 3px solid #FF5959;
+}
+.top-button{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 30px;
+}
+.mission-2022{
+    text-align: center;
+}
+.year-color{
+    color: #FFAD5A;
+}
+.mission-illus{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.mission-illus img{
+    width: 40%;
+}
+.ill-1-bg{
+    background-color: #4f9da61c;
+}
+.ill-2-bg{
+    background-color: #ff59591c;
+}
+.ill-3-bg{
+    background-color: #FFF4D6;
+}
+.bck-img{
+    background-image: url(/images/shape-3.png);
+    background-repeat: no-repeat;
+}
+.color{
+    background-color: rgba(255, 99, 71, 0.144);
+}
